@@ -17,9 +17,9 @@ _[to be updated]._
 ## Contact
 If you have any questions or feedback regarding our project, feel free to reach out to us:
 
-- Mark David Basinilio - [insert contact information]
-- Neil Zapanta - [insert contact information]
-- Andrea Dela Torre - [insert contact information]
+- Mark David Basinilio - [insert gmail]
+- Neil Carlo Zapanta - neilcarlo.zapanta.d@gmail.com
+- Andrea Dela Torre - andreajoyndt@gmail.com
 - Bob Myron Reyes - bmyron.reyes@gmail.com
 
 ## Acknowledgements

@@ -1,6 +1,6 @@
 # Uprise Nexus - IRCITE Hackathon 2024
 
-Welcome to the Uprise Nexus team's repository for the IRCITE Hackathon 2024! This repository contains the project work of our team, consisting of students from Bulacan State University pursuing a Bachelor of Science in Information Technology (BSIT) degree. 
+Welcome to the Uprise Nexus team's repository for the IRCITE Hackathon 2024! This repository contains the project work of our team, consisting of 3rd year students from Bulacan State University pursuing a Bachelor of Science in Information Technology (BSIT) degree. 
 
 ## Project Overview
 Our team, Uprise Nexus, is participating in the IRCITE Hackathon 2024 with a focus on revolutionizing healthcare information management through blockchain technology. Our goal is to develop a secure and decentralized platform that empowers patients to take control of their medical data while ensuring the integrity and privacy of their records.
